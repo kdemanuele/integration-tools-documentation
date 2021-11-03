@@ -1,5 +1,7 @@
 # Integration Tools
 
+[![DotNet Libraries](https://github.com/kdemanuele/integration-tools-dotnet-libraries/actions/workflows/code_build.yaml/badge.svg?branch=main)](https://github.com/kdemanuele/integration-tools-dotnet-libraries/actions/workflows/code_build.yaml)
+
 Integrations are a means for different systems to exchange data using mechanisms to Extract, Transform and Load between the systems. A multitude of technologies are available to build and manage integrations, some concentrating on the entire integration process, like Azure Data Factory with Dataflows or PowerQuery, PowerQuery, MuleSoft, Talent, AWS Glue and more. There are other technologies that concentrate on the Extracting and Loading the data, like Azure Logic App Connectors, simple REST APIs, Microsoft RPA, AWS Glue, Dapr, etc.
 
 With all these technologies around, still the majority of the projects attempt to build their own mechanisms or use a combination of technologies. There is no real right or wrong approaches, as all depends on the requirements and targets to reach.
